@@ -3,8 +3,8 @@ title: "Reproducible Research: Peer Assessment 1"
 author: "Parth Samant"
 date: "8/2/2019"
 output: 
-  html_document:
-    keep_md: true
+  md_document:
+    variant: markdown_github
 ---
 
 
